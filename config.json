@@ -1,0 +1,9 @@
+{
+  "toggle_hotkey": "ctrl+alt+l",
+  "calibrate_hotkey": "ctrl+alt+c",
+  "camera_index": 0,
+  "dwell_ms": 500,
+  "switch_margin": 0.85,
+  "move_cursor": false,
+  "typing_pause_ms": 2000
+}

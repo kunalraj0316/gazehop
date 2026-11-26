@@ -1,0 +1,7 @@
+.venv/
+__pycache__/
+*.pyc
+calibration.json
+cam_report.txt
+face_landmarker.task
+face_landmarker.task.part
